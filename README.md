@@ -1,10 +1,9 @@
 # 🧟 CryptoZombies Journey
 
-Learning Solidity through CryptoZombies by Loom Network.
+Learning Solidity through CryptoZombies.
 
 This repo tracks my progress, notes, experiments, and mini-projects as I build smart contracts.
 
----
 
 ## 🧠 What I'm Doing
 
